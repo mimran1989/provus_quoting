@@ -1,0 +1,17 @@
+[
+	{
+		"loginUrl": "<login_url>",
+		"username": "<username>",
+		"password": "<password>",
+		"permissionSets": [
+			"ManageEstimates",
+			"ManageEstimateTemplates",
+			"ManageOpportunity",
+			"ManageProposals",
+			"PricingManager",
+			"ProductManager",
+			"QuoteManager"
+		],
+		"role": "admin"
+	}
+]
